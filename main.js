@@ -7,7 +7,7 @@ let rs = require('readline-sync');
 
 // Function to get operator and perform checks:
 const getOperator = () => {
-    operator = rs.question("What operation would you like to perform? ");
+    operator = rs.question("What operation woul you like to perform? ");
 
     if (operator === '+' || operator === '-' || operator === '*' || operator === '/') {
         // getNum();
