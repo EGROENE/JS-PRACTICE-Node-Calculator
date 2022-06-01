@@ -1,0 +1,2 @@
+# Node-Calculator
+This is a very simple calculator I built in JavaScript to run in the terminal using Node. It performs checks to make sure the user inputs a valid operator, as well as two valid numbers. Also, if the user tries to divide by zero, an error message will display and the program will start over. I also used readline-sync, a very widely used NPM package, which the user can interact with to perform the desired calculation. I completed this project as part of a coaching program and it has been critiqued by a developer who has much more experience than I.
