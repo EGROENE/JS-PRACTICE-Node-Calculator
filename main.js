@@ -1,4 +1,4 @@
-// Why is 'return' keyword necessary in the else statement of getNum, but not in GET_OPS()? Also, is it necessary to declare operator, num1, num2, isOperator, & type variables at beginning of program?
+// Why is 'return' keyword necessary in the else statement of getNum(), but not in getOperator()?
 
 // Initialize variable of rs (for npm package 'readline-sync'):
 let rs = require('readline-sync');
